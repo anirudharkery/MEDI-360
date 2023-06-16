@@ -1,1 +1,2 @@
-# web_md_drug_search_visulization
+# MEDI-360
+Application is designed to empower doctors and medical practitioners by providing them with valuable insights into the drugs they prescribe. Through an intuitive and interactive data visualization format,application showcases user reviews and experiences related to different medications. This allows healthcare professionals to gain a comprehensive understanding of the effectiveness and impact of specific drugs on the patients who use them. By harnessing the power of user feedback, This application enables doctors to make informed decisions and deliver optimal care to their patients, ultimately enhancing the quality of healthcare
